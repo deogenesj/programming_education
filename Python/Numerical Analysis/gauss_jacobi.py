@@ -1,0 +1,12 @@
+x1 = 0.978
+x2 = -1.98
+x3 = 0.966
+xi = (7 - (2*x2) - x3)/10
+xii = (-8 + (-x1) + (-x3))/5
+xiii = (6 + (-2*x1)+(-3*x2))/10
+print(f"x1 = {xi}")
+print(f"x2 = {xii}")
+print(f"x3 = {xiii}")
+print(f"erro x1 = {xi-x1}")
+print(f"erro x2 = {xii-x2}")
+print(f"erro x3 = {xiii-x3}")
